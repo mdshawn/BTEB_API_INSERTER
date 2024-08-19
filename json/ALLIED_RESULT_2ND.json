@@ -1,0 +1,2707 @@
+[
+    {
+        "roll_number": "598138",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67071",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "16058",
+        "institute_name": "Rangpur Polytechnic Institute",
+        "district": "Rangpur",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598168",
+        "result": {
+            "status": "passed",
+            "GPA": 2.79
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597715",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67073",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597716",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67071",
+                    "status": "T"
+                },
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "595934",
+        "result": {
+            "status": "passed",
+            "GPA": 3.4
+        },
+        "institute_code": "23105",
+        "institute_name": "Rajshahi Polytechnic Institute",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597635",
+        "result": {
+            "status": "passed",
+            "GPA": 3.83
+        },
+        "institute_code": "23105",
+        "institute_name": "Rajshahi Polytechnic Institute",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597712",
+        "result": {
+            "status": "passed",
+            "GPA": 3.65
+        },
+        "institute_code": "23105",
+        "institute_name": "Rajshahi Polytechnic Institute",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597763",
+        "result": {
+            "status": "passed",
+            "GPA": 3.42
+        },
+        "institute_code": "23105",
+        "institute_name": "Rajshahi Polytechnic Institute",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598201",
+        "result": {
+            "status": "passed",
+            "GPA": 3.5
+        },
+        "institute_code": "23105",
+        "institute_name": "Rajshahi Polytechnic Institute",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598286",
+        "result": {
+            "status": "passed",
+            "GPA": 3.83
+        },
+        "institute_code": "23105",
+        "institute_name": "Rajshahi Polytechnic Institute",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598433",
+        "result": {
+            "status": "passed",
+            "GPA": 3.88
+        },
+        "institute_code": "23105",
+        "institute_name": "Rajshahi Polytechnic Institute",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598450",
+        "result": {
+            "status": "passed",
+            "GPA": 3.75
+        },
+        "institute_code": "23105",
+        "institute_name": "Rajshahi Polytechnic Institute",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598521",
+        "result": {
+            "status": "passed",
+            "GPA": 3.93
+        },
+        "institute_code": "23105",
+        "institute_name": "Rajshahi Polytechnic Institute",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598563",
+        "result": {
+            "status": "passed",
+            "GPA": 3.45
+        },
+        "institute_code": "23105",
+        "institute_name": "Rajshahi Polytechnic Institute",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598597",
+        "result": {
+            "status": "passed",
+            "GPA": 3.52
+        },
+        "institute_code": "23105",
+        "institute_name": "Rajshahi Polytechnic Institute",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598283",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "66774",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "23105",
+        "institute_name": "Rajshahi Polytechnic Institute",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598561",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67075",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "23105",
+        "institute_name": "Rajshahi Polytechnic Institute",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597741",
+        "result": {
+            "status": "passed",
+            "GPA": 2.6
+        },
+        "institute_code": "35048",
+        "institute_name": "Khulna Polytechnic Institute",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597742",
+        "result": {
+            "status": "passed",
+            "GPA": 2.68
+        },
+        "institute_code": "35048",
+        "institute_name": "Khulna Polytechnic Institute",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598241",
+        "result": {
+            "status": "passed",
+            "GPA": 3.33
+        },
+        "institute_code": "35048",
+        "institute_name": "Khulna Polytechnic Institute",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598242",
+        "result": {
+            "status": "passed",
+            "GPA": 3.42
+        },
+        "institute_code": "35048",
+        "institute_name": "Khulna Polytechnic Institute",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598244",
+        "result": {
+            "status": "passed",
+            "GPA": 3.33
+        },
+        "institute_code": "35048",
+        "institute_name": "Khulna Polytechnic Institute",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598522",
+        "result": {
+            "status": "passed",
+            "GPA": 3.05
+        },
+        "institute_code": "35048",
+        "institute_name": "Khulna Polytechnic Institute",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598610",
+        "result": {
+            "status": "passed",
+            "GPA": 2.75
+        },
+        "institute_code": "35048",
+        "institute_name": "Khulna Polytechnic Institute",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598611",
+        "result": {
+            "status": "passed",
+            "GPA": 2.5
+        },
+        "institute_code": "35048",
+        "institute_name": "Khulna Polytechnic Institute",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598465",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67075",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "35048",
+        "institute_name": "Khulna Polytechnic Institute",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598516",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "66773",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "35048",
+        "institute_name": "Khulna Polytechnic Institute",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598524",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67071",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "35048",
+        "institute_name": "Khulna Polytechnic Institute",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597748",
+        "result": {
+            "status": "passed",
+            "GPA": 3.13
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597758",
+        "result": {
+            "status": "passed",
+            "GPA": 2.88
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597990",
+        "result": {
+            "status": "passed",
+            "GPA": 3.15
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598274",
+        "result": {
+            "status": "passed",
+            "GPA": 3.53
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598619",
+        "result": {
+            "status": "passed",
+            "GPA": 3.08
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598620",
+        "result": {
+            "status": "passed",
+            "GPA": 3.28
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597752",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598614",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67073",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "595296",
+        "result": {
+            "status": "passed",
+            "GPA": 3.05
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "595987",
+        "result": {
+            "status": "passed",
+            "GPA": 2.96
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "596996",
+        "result": {
+            "status": "passed",
+            "GPA": 2.9
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597003",
+        "result": {
+            "status": "passed",
+            "GPA": 2.98
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597012",
+        "result": {
+            "status": "passed",
+            "GPA": 2.93
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597058",
+        "result": {
+            "status": "passed",
+            "GPA": 2.75
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597091",
+        "result": {
+            "status": "passed",
+            "GPA": 2.98
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597162",
+        "result": {
+            "status": "passed",
+            "GPA": 2.8
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597342",
+        "result": {
+            "status": "passed",
+            "GPA": 3.0
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597344",
+        "result": {
+            "status": "passed",
+            "GPA": 3.0
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597351",
+        "result": {
+            "status": "passed",
+            "GPA": 3.45
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597498",
+        "result": {
+            "status": "passed",
+            "GPA": 3.0
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597634",
+        "result": {
+            "status": "passed",
+            "GPA": 3.11
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597639",
+        "result": {
+            "status": "passed",
+            "GPA": 3.08
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597654",
+        "result": {
+            "status": "passed",
+            "GPA": 2.83
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597657",
+        "result": {
+            "status": "passed",
+            "GPA": 2.91
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597658",
+        "result": {
+            "status": "passed",
+            "GPA": 2.98
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597699",
+        "result": {
+            "status": "passed",
+            "GPA": 2.88
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597701",
+        "result": {
+            "status": "passed",
+            "GPA": 3.21
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597710",
+        "result": {
+            "status": "passed",
+            "GPA": 2.91
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597728",
+        "result": {
+            "status": "passed",
+            "GPA": 3.14
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597749",
+        "result": {
+            "status": "passed",
+            "GPA": 2.93
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597751",
+        "result": {
+            "status": "passed",
+            "GPA": 2.98
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597765",
+        "result": {
+            "status": "passed",
+            "GPA": 3.4
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597767",
+        "result": {
+            "status": "passed",
+            "GPA": 3.48
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597768",
+        "result": {
+            "status": "passed",
+            "GPA": 2.83
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597769",
+        "result": {
+            "status": "passed",
+            "GPA": 2.91
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597776",
+        "result": {
+            "status": "passed",
+            "GPA": 2.88
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597777",
+        "result": {
+            "status": "passed",
+            "GPA": 2.95
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597817",
+        "result": {
+            "status": "passed",
+            "GPA": 2.93
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597821",
+        "result": {
+            "status": "passed",
+            "GPA": 2.88
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597852",
+        "result": {
+            "status": "passed",
+            "GPA": 3.15
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597871",
+        "result": {
+            "status": "passed",
+            "GPA": 2.93
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597872",
+        "result": {
+            "status": "passed",
+            "GPA": 2.93
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597878",
+        "result": {
+            "status": "passed",
+            "GPA": 2.98
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597886",
+        "result": {
+            "status": "passed",
+            "GPA": 3.02
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597906",
+        "result": {
+            "status": "passed",
+            "GPA": 3.08
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597908",
+        "result": {
+            "status": "passed",
+            "GPA": 3.05
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597943",
+        "result": {
+            "status": "passed",
+            "GPA": 3.08
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597945",
+        "result": {
+            "status": "passed",
+            "GPA": 2.96
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597966",
+        "result": {
+            "status": "passed",
+            "GPA": 3.2
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597969",
+        "result": {
+            "status": "passed",
+            "GPA": 2.93
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597981",
+        "result": {
+            "status": "passed",
+            "GPA": 2.83
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598100",
+        "result": {
+            "status": "passed",
+            "GPA": 3.2
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598102",
+        "result": {
+            "status": "passed",
+            "GPA": 3.0
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598103",
+        "result": {
+            "status": "passed",
+            "GPA": 3.38
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598111",
+        "result": {
+            "status": "passed",
+            "GPA": 3.05
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598139",
+        "result": {
+            "status": "passed",
+            "GPA": 2.83
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598143",
+        "result": {
+            "status": "passed",
+            "GPA": 2.93
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598163",
+        "result": {
+            "status": "passed",
+            "GPA": 2.98
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598165",
+        "result": {
+            "status": "passed",
+            "GPA": 3.0
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598166",
+        "result": {
+            "status": "passed",
+            "GPA": 2.98
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598167",
+        "result": {
+            "status": "passed",
+            "GPA": 3.05
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598178",
+        "result": {
+            "status": "passed",
+            "GPA": 3.09
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598192",
+        "result": {
+            "status": "passed",
+            "GPA": 2.98
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598202",
+        "result": {
+            "status": "passed",
+            "GPA": 2.73
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598224",
+        "result": {
+            "status": "passed",
+            "GPA": 2.98
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598238",
+        "result": {
+            "status": "passed",
+            "GPA": 2.9
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598239",
+        "result": {
+            "status": "passed",
+            "GPA": 3.05
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598240",
+        "result": {
+            "status": "passed",
+            "GPA": 2.88
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598271",
+        "result": {
+            "status": "passed",
+            "GPA": 2.8
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598285",
+        "result": {
+            "status": "passed",
+            "GPA": 2.98
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598299",
+        "result": {
+            "status": "passed",
+            "GPA": 3.02
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598311",
+        "result": {
+            "status": "passed",
+            "GPA": 3.02
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598382",
+        "result": {
+            "status": "passed",
+            "GPA": 2.9
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598391",
+        "result": {
+            "status": "passed",
+            "GPA": 3.05
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598417",
+        "result": {
+            "status": "passed",
+            "GPA": 3.04
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598423",
+        "result": {
+            "status": "passed",
+            "GPA": 3.15
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598444",
+        "result": {
+            "status": "passed",
+            "GPA": 3.28
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598448",
+        "result": {
+            "status": "passed",
+            "GPA": 3.2
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598455",
+        "result": {
+            "status": "passed",
+            "GPA": 3.05
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598460",
+        "result": {
+            "status": "passed",
+            "GPA": 3.28
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598469",
+        "result": {
+            "status": "passed",
+            "GPA": 3.13
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598479",
+        "result": {
+            "status": "passed",
+            "GPA": 3.33
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598492",
+        "result": {
+            "status": "passed",
+            "GPA": 3.09
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598547",
+        "result": {
+            "status": "passed",
+            "GPA": 3.05
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598564",
+        "result": {
+            "status": "passed",
+            "GPA": 3.13
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598573",
+        "result": {
+            "status": "passed",
+            "GPA": 3.54
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598583",
+        "result": {
+            "status": "passed",
+            "GPA": 3.38
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598586",
+        "result": {
+            "status": "passed",
+            "GPA": 3.4
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598601",
+        "result": {
+            "status": "passed",
+            "GPA": 3.27
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598606",
+        "result": {
+            "status": "passed",
+            "GPA": 3.05
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598607",
+        "result": {
+            "status": "passed",
+            "GPA": 3.15
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598613",
+        "result": {
+            "status": "passed",
+            "GPA": 3.04
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598622",
+        "result": {
+            "status": "passed",
+            "GPA": 2.88
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598623",
+        "result": {
+            "status": "passed",
+            "GPA": 3.13
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597111",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597676",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67071",
+                    "status": "T"
+                },
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597692",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597700",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67071",
+                    "status": "T"
+                },
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597766",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597822",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597989",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598276",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598277",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598289",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598293",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67071",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598418",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598431",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598445",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598446",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598467",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598468",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67071",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598501",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598525",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67071",
+                    "status": "T"
+                },
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598560",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598602",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598624",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598625",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67075",
+                    "status": "T"
+                },
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598644",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67076",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597764",
+        "result": {
+            "status": "passed",
+            "GPA": 3.5
+        },
+        "institute_code": "57067",
+        "institute_name": "Mymensingh Polytechnic Institute",
+        "district": "Mymensingh",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597823",
+        "result": {
+            "status": "passed",
+            "GPA": 3.75
+        },
+        "institute_code": "57067",
+        "institute_name": "Mymensingh Polytechnic Institute",
+        "district": "Mymensingh",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598000",
+        "result": {
+            "status": "passed",
+            "GPA": 3.58
+        },
+        "institute_code": "57067",
+        "institute_name": "Mymensingh Polytechnic Institute",
+        "district": "Mymensingh",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598281",
+        "result": {
+            "status": "passed",
+            "GPA": 3.33
+        },
+        "institute_code": "57067",
+        "institute_name": "Mymensingh Polytechnic Institute",
+        "district": "Mymensingh",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598441",
+        "result": {
+            "status": "passed",
+            "GPA": 3.65
+        },
+        "institute_code": "57067",
+        "institute_name": "Mymensingh Polytechnic Institute",
+        "district": "Mymensingh",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598478",
+        "result": {
+            "status": "passed",
+            "GPA": 3.0
+        },
+        "institute_code": "57067",
+        "institute_name": "Mymensingh Polytechnic Institute",
+        "district": "Mymensingh",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598493",
+        "result": {
+            "status": "passed",
+            "GPA": 3.33
+        },
+        "institute_code": "57067",
+        "institute_name": "Mymensingh Polytechnic Institute",
+        "district": "Mymensingh",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598566",
+        "result": {
+            "status": "passed",
+            "GPA": 3.5
+        },
+        "institute_code": "57067",
+        "institute_name": "Mymensingh Polytechnic Institute",
+        "district": "Mymensingh",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598575",
+        "result": {
+            "status": "passed",
+            "GPA": 3.33
+        },
+        "institute_code": "57067",
+        "institute_name": "Mymensingh Polytechnic Institute",
+        "district": "Mymensingh",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598627",
+        "result": {
+            "status": "passed",
+            "GPA": 3.0
+        },
+        "institute_code": "57067",
+        "institute_name": "Mymensingh Polytechnic Institute",
+        "district": "Mymensingh",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598628",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67073",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "57067",
+        "institute_name": "Mymensingh Polytechnic Institute",
+        "district": "Mymensingh",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597824",
+        "result": {
+            "status": "passed",
+            "GPA": 3.36
+        },
+        "institute_code": "70048",
+        "institute_name": "Chittagong Polytechnic Institute",
+        "district": "Chittagong",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597840",
+        "result": {
+            "status": "passed",
+            "GPA": 3.18
+        },
+        "institute_code": "70048",
+        "institute_name": "Chittagong Polytechnic Institute",
+        "district": "Chittagong",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598406",
+        "result": {
+            "status": "passed",
+            "GPA": 3.03
+        },
+        "institute_code": "70048",
+        "institute_name": "Chittagong Polytechnic Institute",
+        "district": "Chittagong",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598411",
+        "result": {
+            "status": "passed",
+            "GPA": 3.28
+        },
+        "institute_code": "70048",
+        "institute_name": "Chittagong Polytechnic Institute",
+        "district": "Chittagong",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598642",
+        "result": {
+            "status": "passed",
+            "GPA": 3.48
+        },
+        "institute_code": "70048",
+        "institute_name": "Chittagong Polytechnic Institute",
+        "district": "Chittagong",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597122",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67073",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "70048",
+        "institute_name": "Chittagong Polytechnic Institute",
+        "district": "Chittagong",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "597841",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67073",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "70048",
+        "institute_name": "Chittagong Polytechnic Institute",
+        "district": "Chittagong",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598377",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67073",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "70048",
+        "institute_name": "Chittagong Polytechnic Institute",
+        "district": "Chittagong",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "598487",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "67071",
+                    "status": "T"
+                }
+            ]
+        },
+        "institute_code": "70048",
+        "institute_name": "Chittagong Polytechnic Institute",
+        "district": "Chittagong",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  ENGINEERING (ALLIED)",
+        "examination_held": "December, 2023"
+    }
+]

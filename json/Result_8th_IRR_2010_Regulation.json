@@ -1,0 +1,1112 @@
+[
+    {
+        "roll_number": "535129",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "13119",
+        "institute_name": "Aptouch Polytechnic Institute",
+        "district": "Dinajpur",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "204569",
+        "result": {
+            "status": "passed",
+            "GPA": 2.62
+        },
+        "institute_code": "16113",
+        "institute_name": "Image Polytechnic Institute",
+        "district": "Rangpur",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "204914",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "16117",
+        "institute_name": "Shamoly Ideal Textile and Engineering College",
+        "district": "Rangpur",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "605015",
+        "result": {
+            "status": "passed",
+            "GPA": 2.42
+        },
+        "institute_code": "20094",
+        "institute_name": "Islami Bank Institute Of Technology",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "624995",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "20094",
+        "institute_name": "Islami Bank Institute Of Technology",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "213663",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "20173",
+        "institute_name": "Institute Of Polytechnic And Textile Technology",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "215901",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "23071",
+        "institute_name": "National Science Research And Technology College",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "292529",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "23071",
+        "institute_name": "National Science Research And Technology College",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "809240",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "23071",
+        "institute_name": "National Science Research And Technology College",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "506117",
+        "result": {
+            "status": "passed",
+            "GPA": 2.73
+        },
+        "institute_code": "23119",
+        "institute_name": "Puthia Polytechnic Institute",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "218409",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "23242",
+        "institute_name": "Padma Institute of Technology",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "816613",
+        "result": {
+            "status": "passed",
+            "GPA": 3.04
+        },
+        "institute_code": "24160",
+        "institute_name": "TMSS Polytechnic Institute",
+        "district": "Natore",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "718414",
+        "result": {
+            "status": "passed",
+            "GPA": 3.0
+        },
+        "institute_code": "26062",
+        "institute_name": "Pabna Polytechnic Institute",
+        "district": "Pabna",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "223281",
+        "result": {
+            "status": "passed",
+            "GPA": 2.61
+        },
+        "institute_code": "27074",
+        "institute_name": "Darpon Polytechnic Institute",
+        "district": "Kushtia",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "225439",
+        "result": {
+            "status": "passed",
+            "GPA": 2.83
+        },
+        "institute_code": "31036",
+        "institute_name": "Magura Polytechnic Institute",
+        "district": "Magura",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "225864",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "31041",
+        "institute_name": "Magura College Of Engineering And Technology",
+        "district": "Magura",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "723767",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "33053",
+        "institute_name": "Jessore Polytechnic Institute",
+        "district": "Jessore",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "725424",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "33176",
+        "institute_name": "Akij Engineering Institute",
+        "district": "Jessore",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "232306",
+        "result": {
+            "status": "passed",
+            "GPA": 2.64
+        },
+        "institute_code": "35048",
+        "institute_name": "Khulna Polytechnic Institute",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "645072",
+        "result": {
+            "status": "passed",
+            "GPA": 2.36
+        },
+        "institute_code": "35048",
+        "institute_name": "Khulna Polytechnic Institute",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "727445",
+        "result": {
+            "status": "passed",
+            "GPA": 2.5
+        },
+        "institute_code": "35048",
+        "institute_name": "Khulna Polytechnic Institute",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "236574",
+        "result": {
+            "status": "passed",
+            "GPA": 3.0
+        },
+        "institute_code": "39091",
+        "institute_name": "Begum Fazilatunessa Polytechnic Institute",
+        "district": "Patuakhali",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "829853",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "39091",
+        "institute_name": "Begum Fazilatunessa Polytechnic Institute",
+        "district": "Patuakhali",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "829858",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "39091",
+        "institute_name": "Begum Fazilatunessa Polytechnic Institute",
+        "district": "Patuakhali",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "833537",
+        "result": {
+            "status": "passed",
+            "GPA": 2.63
+        },
+        "institute_code": "42044",
+        "institute_name": "Infra Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "833879",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "42044",
+        "institute_name": "Infra Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "671512",
+        "result": {
+            "status": "passed",
+            "GPA": 2.8
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "736335",
+        "result": {
+            "status": "passed",
+            "GPA": 2.52
+        },
+        "institute_code": "42061",
+        "institute_name": "Barisal Ideal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "835043",
+        "result": {
+            "status": "passed",
+            "GPA": 2.57
+        },
+        "institute_code": "42061",
+        "institute_name": "Barisal Ideal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "835155",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "42085",
+        "institute_name": "Barisal Technocrats Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "821194",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "46026",
+        "institute_name": "Faridpur Polytechnic Institute",
+        "district": "Faridpur",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "244812",
+        "result": {
+            "status": "passed",
+            "GPA": 2.75
+        },
+        "institute_code": "46027",
+        "institute_name": "Grassroots College Of Technology",
+        "district": "Faridpur",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "245774",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "48035",
+        "institute_name": "National Polytechnic Institute Manikganj",
+        "district": "Manikgonj",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "838535",
+        "result": {
+            "status": "passed",
+            "GPA": 2.83
+        },
+        "institute_code": "50045",
+        "institute_name": "Institute Of Communication Technology",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "247661",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50051",
+        "institute_name": "Institute of Science",
+        "district": "Trade and Technology, Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "247740",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50077",
+        "institute_name": "Ideal Institute Of Science And Technology (IIST)",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "839151",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50077",
+        "institute_name": "Ideal Institute Of Science And Technology (IIST)",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "253107",
+        "result": {
+            "status": "passed",
+            "GPA": 3.09
+        },
+        "institute_code": "50110",
+        "institute_name": "Islami Bank Institute Of Technology",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "846149",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50112",
+        "institute_name": "Micro Institute Of Technology",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "253676",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50114",
+        "institute_name": "National Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "254266",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50116",
+        "institute_name": "Saic Institute Of Management And Technology",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "256098",
+        "result": {
+            "status": "passed",
+            "GPA": 2.54
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "847976",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50117",
+        "institute_name": "Dhaka Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "256465",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50123",
+        "institute_name": "Mawts Institute Of Technology- Bangladesh (Mitb)",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "256506",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50123",
+        "institute_name": "Mawts Institute Of Technology- Bangladesh (Mitb)",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "848727",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50123",
+        "institute_name": "Mawts Institute Of Technology- Bangladesh (Mitb)",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "848772",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50123",
+        "institute_name": "Mawts Institute Of Technology- Bangladesh (Mitb)",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "257125",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50202",
+        "institute_name": "Muslim Aid Institute Of Technology (MAIT)",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "257335",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50276",
+        "institute_name": "Uttara Engineering College",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "849590",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50276",
+        "institute_name": "Uttara Engineering College",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "258138",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50402",
+        "institute_name": "National Institute Of Engineering And Technology(NIET)",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "259097",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50402",
+        "institute_name": "National Institute Of Engineering And Technology(NIET)",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "849997",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50402",
+        "institute_name": "National Institute Of Engineering And Technology(NIET)",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "258152",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50512",
+        "institute_name": "Western Ideal Institute(WII)",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "261849",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50512",
+        "institute_name": "Western Ideal Institute(WII)",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "263172",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50513",
+        "institute_name": "National Professional Institute (NPI)",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "292602",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50513",
+        "institute_name": "National Professional Institute (NPI)",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "854997",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50513",
+        "institute_name": "National Professional Institute (NPI)",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "525418",
+        "result": {
+            "status": "passed",
+            "GPA": 2.76
+        },
+        "institute_code": "50528",
+        "institute_name": "Ahsanullah Institute of Technical and Vocational Education and Training",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "264266",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50528",
+        "institute_name": "Ahsanullah Institute of Technical and Vocational Education and Training",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "265921",
+        "result": {
+            "status": "passed",
+            "GPA": 2.84
+        },
+        "institute_code": "51046",
+        "institute_name": "National Institute of Engineering and Technology(NIET)",
+        "district": "Narayanganj",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "856204",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "51046",
+        "institute_name": "National Institute of Engineering and Technology(NIET)",
+        "district": "Narayanganj",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "648676",
+        "result": {
+            "status": "passed",
+            "GPA": 2.88
+        },
+        "institute_code": "51100",
+        "institute_name": "Bahaul Haq NPI Institute of Science & Technology (BNIST)",
+        "district": "Narayanganj",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "754573",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "51100",
+        "institute_name": "Bahaul Haq NPI Institute of Science & Technology (BNIST)",
+        "district": "Narayanganj",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "269221",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "53033",
+        "institute_name": "Model Institute Of Science And Technology",
+        "district": "Gazipur",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "759587",
+        "result": {
+            "status": "passed",
+            "GPA": 2.91
+        },
+        "institute_code": "53037",
+        "institute_name": "Gazipur Textile Engineering And Technology (Gtet)",
+        "district": "Gazipur",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "269794",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "53050",
+        "institute_name": "British American Technology And Management Institute",
+        "district": "Gazipur",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "272765",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "55101",
+        "institute_name": "Jashimuddin Polytechnic Institute",
+        "district": "Jamalpur",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "272816",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "55101",
+        "institute_name": "Jashimuddin Polytechnic Institute",
+        "district": "Jamalpur",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "272847",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "55101",
+        "institute_name": "Jashimuddin Polytechnic Institute",
+        "district": "Jamalpur",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "275811",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "57118",
+        "institute_name": "Mymensingh Institute Of Modern Technology",
+        "district": "Mymensingh",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "275932",
+        "result": {
+            "status": "passed",
+            "GPA": 2.78
+        },
+        "institute_code": "57128",
+        "institute_name": "Momenshahi Technical And Engineering Institute",
+        "district": "Mymensingh",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "769563",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "65055",
+        "institute_name": "CCN Polytechnic Institute",
+        "district": "Comilla",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "288352",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "70062",
+        "institute_name": "Chittagong Technical College",
+        "district": "Chittagong",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN ENGINEERING",
+        "examination_held": "December, 2023"
+    }
+]

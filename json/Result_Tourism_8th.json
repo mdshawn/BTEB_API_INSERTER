@@ -1,0 +1,2497 @@
+[
+    {
+        "roll_number": "101095",
+        "result": {
+            "status": "passed",
+            "GPA": 3.45
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "112715",
+        "result": {
+            "status": "passed",
+            "GPA": 2.97
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "177190",
+        "result": {
+            "status": "passed",
+            "GPA": 3.19
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "400085",
+        "result": {
+            "status": "passed",
+            "GPA": 3.88
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "400086",
+        "result": {
+            "status": "passed",
+            "GPA": 3.74
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "400088",
+        "result": {
+            "status": "passed",
+            "GPA": 3.69
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "400089",
+        "result": {
+            "status": "passed",
+            "GPA": 3.41
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "400091",
+        "result": {
+            "status": "passed",
+            "GPA": 3.51
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414314",
+        "result": {
+            "status": "passed",
+            "GPA": 3.34
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414315",
+        "result": {
+            "status": "passed",
+            "GPA": 3.81
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414316",
+        "result": {
+            "status": "passed",
+            "GPA": 3.56
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414318",
+        "result": {
+            "status": "passed",
+            "GPA": 3.67
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414320",
+        "result": {
+            "status": "passed",
+            "GPA": 3.43
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414321",
+        "result": {
+            "status": "passed",
+            "GPA": 3.87
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414322",
+        "result": {
+            "status": "passed",
+            "GPA": 3.36
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414324",
+        "result": {
+            "status": "passed",
+            "GPA": 3.9
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414328",
+        "result": {
+            "status": "passed",
+            "GPA": 3.67
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414329",
+        "result": {
+            "status": "passed",
+            "GPA": 3.46
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414330",
+        "result": {
+            "status": "passed",
+            "GPA": 3.92
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414336",
+        "result": {
+            "status": "passed",
+            "GPA": 3.68
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414338",
+        "result": {
+            "status": "passed",
+            "GPA": 3.54
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414343",
+        "result": {
+            "status": "passed",
+            "GPA": 3.62
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414345",
+        "result": {
+            "status": "passed",
+            "GPA": 3.72
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414346",
+        "result": {
+            "status": "passed",
+            "GPA": 3.3
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414347",
+        "result": {
+            "status": "passed",
+            "GPA": 3.78
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414348",
+        "result": {
+            "status": "passed",
+            "GPA": 3.87
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414349",
+        "result": {
+            "status": "passed",
+            "GPA": 3.54
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414352",
+        "result": {
+            "status": "passed",
+            "GPA": 3.67
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414355",
+        "result": {
+            "status": "passed",
+            "GPA": 3.56
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414358",
+        "result": {
+            "status": "passed",
+            "GPA": 3.7
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414359",
+        "result": {
+            "status": "passed",
+            "GPA": 3.58
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414360",
+        "result": {
+            "status": "passed",
+            "GPA": 3.9
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414363",
+        "result": {
+            "status": "passed",
+            "GPA": 3.75
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "435755",
+        "result": {
+            "status": "passed",
+            "GPA": 3.86
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "491155",
+        "result": {
+            "status": "passed",
+            "GPA": 3.63
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "491156",
+        "result": {
+            "status": "passed",
+            "GPA": 3.33
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "491157",
+        "result": {
+            "status": "passed",
+            "GPA": 3.69
+        },
+        "institute_code": "20099",
+        "institute_name": "Bogra Polytechnic Institute",
+        "district": "Bogra",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "414331",
+        "result": {
+            "status": "passed",
+            "GPA": 3.57
+        },
+        "institute_code": "34048",
+        "institute_name": "Satkhira Polytechnic Institute",
+        "district": "Satkhira",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "435747",
+        "result": {
+            "status": "passed",
+            "GPA": 3.93
+        },
+        "institute_code": "34048",
+        "institute_name": "Satkhira Polytechnic Institute",
+        "district": "Satkhira",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "435749",
+        "result": {
+            "status": "passed",
+            "GPA": 3.79
+        },
+        "institute_code": "34048",
+        "institute_name": "Satkhira Polytechnic Institute",
+        "district": "Satkhira",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "435752",
+        "result": {
+            "status": "passed",
+            "GPA": 3.63
+        },
+        "institute_code": "34048",
+        "institute_name": "Satkhira Polytechnic Institute",
+        "district": "Satkhira",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "435754",
+        "result": {
+            "status": "passed",
+            "GPA": 3.61
+        },
+        "institute_code": "34048",
+        "institute_name": "Satkhira Polytechnic Institute",
+        "district": "Satkhira",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "435757",
+        "result": {
+            "status": "passed",
+            "GPA": 3.69
+        },
+        "institute_code": "34048",
+        "institute_name": "Satkhira Polytechnic Institute",
+        "district": "Satkhira",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "435759",
+        "result": {
+            "status": "passed",
+            "GPA": 3.83
+        },
+        "institute_code": "34048",
+        "institute_name": "Satkhira Polytechnic Institute",
+        "district": "Satkhira",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "435760",
+        "result": {
+            "status": "passed",
+            "GPA": 3.75
+        },
+        "institute_code": "34048",
+        "institute_name": "Satkhira Polytechnic Institute",
+        "district": "Satkhira",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "435761",
+        "result": {
+            "status": "passed",
+            "GPA": 3.7
+        },
+        "institute_code": "34048",
+        "institute_name": "Satkhira Polytechnic Institute",
+        "district": "Satkhira",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "435762",
+        "result": {
+            "status": "passed",
+            "GPA": 3.54
+        },
+        "institute_code": "34048",
+        "institute_name": "Satkhira Polytechnic Institute",
+        "district": "Satkhira",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "435764",
+        "result": {
+            "status": "passed",
+            "GPA": 3.59
+        },
+        "institute_code": "34048",
+        "institute_name": "Satkhira Polytechnic Institute",
+        "district": "Satkhira",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "435767",
+        "result": {
+            "status": "passed",
+            "GPA": 3.74
+        },
+        "institute_code": "34048",
+        "institute_name": "Satkhira Polytechnic Institute",
+        "district": "Satkhira",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "435768",
+        "result": {
+            "status": "passed",
+            "GPA": 3.67
+        },
+        "institute_code": "34048",
+        "institute_name": "Satkhira Polytechnic Institute",
+        "district": "Satkhira",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "435769",
+        "result": {
+            "status": "passed",
+            "GPA": 3.63
+        },
+        "institute_code": "34048",
+        "institute_name": "Satkhira Polytechnic Institute",
+        "district": "Satkhira",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "435770",
+        "result": {
+            "status": "passed",
+            "GPA": 3.74
+        },
+        "institute_code": "34048",
+        "institute_name": "Satkhira Polytechnic Institute",
+        "district": "Satkhira",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "435772",
+        "result": {
+            "status": "passed",
+            "GPA": 3.76
+        },
+        "institute_code": "34048",
+        "institute_name": "Satkhira Polytechnic Institute",
+        "district": "Satkhira",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "476600",
+        "result": {
+            "status": "passed",
+            "GPA": 3.85
+        },
+        "institute_code": "34048",
+        "institute_name": "Satkhira Polytechnic Institute",
+        "district": "Satkhira",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "439293",
+        "result": {
+            "status": "passed",
+            "GPA": 3.75
+        },
+        "institute_code": "35066",
+        "institute_name": "Mangrove Institute Of Science And Technology",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "439294",
+        "result": {
+            "status": "passed",
+            "GPA": 3.62
+        },
+        "institute_code": "35066",
+        "institute_name": "Mangrove Institute Of Science And Technology",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "439297",
+        "result": {
+            "status": "passed",
+            "GPA": 3.72
+        },
+        "institute_code": "35066",
+        "institute_name": "Mangrove Institute Of Science And Technology",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "439298",
+        "result": {
+            "status": "passed",
+            "GPA": 3.49
+        },
+        "institute_code": "35066",
+        "institute_name": "Mangrove Institute Of Science And Technology",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "439299",
+        "result": {
+            "status": "passed",
+            "GPA": 3.79
+        },
+        "institute_code": "35066",
+        "institute_name": "Mangrove Institute Of Science And Technology",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "439300",
+        "result": {
+            "status": "passed",
+            "GPA": 3.51
+        },
+        "institute_code": "35066",
+        "institute_name": "Mangrove Institute Of Science And Technology",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "439301",
+        "result": {
+            "status": "passed",
+            "GPA": 3.54
+        },
+        "institute_code": "35066",
+        "institute_name": "Mangrove Institute Of Science And Technology",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "439302",
+        "result": {
+            "status": "passed",
+            "GPA": 3.71
+        },
+        "institute_code": "35066",
+        "institute_name": "Mangrove Institute Of Science And Technology",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "439303",
+        "result": {
+            "status": "passed",
+            "GPA": 3.58
+        },
+        "institute_code": "35066",
+        "institute_name": "Mangrove Institute Of Science And Technology",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "439304",
+        "result": {
+            "status": "passed",
+            "GPA": 3.56
+        },
+        "institute_code": "35066",
+        "institute_name": "Mangrove Institute Of Science And Technology",
+        "district": "Khulna",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "136935",
+        "result": {
+            "status": "passed",
+            "GPA": 3.43
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444168",
+        "result": {
+            "status": "passed",
+            "GPA": 3.36
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444169",
+        "result": {
+            "status": "passed",
+            "GPA": 3.79
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444170",
+        "result": {
+            "status": "passed",
+            "GPA": 3.73
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444171",
+        "result": {
+            "status": "passed",
+            "GPA": 3.6
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444173",
+        "result": {
+            "status": "passed",
+            "GPA": 3.59
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444174",
+        "result": {
+            "status": "passed",
+            "GPA": 3.54
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444175",
+        "result": {
+            "status": "passed",
+            "GPA": 3.7
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444178",
+        "result": {
+            "status": "passed",
+            "GPA": 3.35
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444179",
+        "result": {
+            "status": "passed",
+            "GPA": 3.35
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444181",
+        "result": {
+            "status": "passed",
+            "GPA": 3.7
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444182",
+        "result": {
+            "status": "passed",
+            "GPA": 3.4
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444188",
+        "result": {
+            "status": "passed",
+            "GPA": 3.71
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444189",
+        "result": {
+            "status": "passed",
+            "GPA": 3.51
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444190",
+        "result": {
+            "status": "passed",
+            "GPA": 3.41
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444191",
+        "result": {
+            "status": "passed",
+            "GPA": 3.5
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444192",
+        "result": {
+            "status": "passed",
+            "GPA": 3.52
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444193",
+        "result": {
+            "status": "passed",
+            "GPA": 3.57
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444194",
+        "result": {
+            "status": "passed",
+            "GPA": 3.55
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444198",
+        "result": {
+            "status": "passed",
+            "GPA": 3.62
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444203",
+        "result": {
+            "status": "passed",
+            "GPA": 3.32
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444204",
+        "result": {
+            "status": "passed",
+            "GPA": 3.94
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444206",
+        "result": {
+            "status": "passed",
+            "GPA": 3.66
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "444208",
+        "result": {
+            "status": "passed",
+            "GPA": 3.71
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "921939",
+        "result": {
+            "status": "passed",
+            "GPA": 3.55
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "452785",
+        "result": {
+            "status": "passed",
+            "GPA": 3.49
+        },
+        "institute_code": "50088",
+        "institute_name": "Mohila Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "452786",
+        "result": {
+            "status": "passed",
+            "GPA": 3.83
+        },
+        "institute_code": "50088",
+        "institute_name": "Mohila Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "452789",
+        "result": {
+            "status": "passed",
+            "GPA": 3.86
+        },
+        "institute_code": "50088",
+        "institute_name": "Mohila Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "452790",
+        "result": {
+            "status": "passed",
+            "GPA": 3.83
+        },
+        "institute_code": "50088",
+        "institute_name": "Mohila Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "452791",
+        "result": {
+            "status": "passed",
+            "GPA": 3.58
+        },
+        "institute_code": "50088",
+        "institute_name": "Mohila Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "452792",
+        "result": {
+            "status": "passed",
+            "GPA": 3.58
+        },
+        "institute_code": "50088",
+        "institute_name": "Mohila Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "452793",
+        "result": {
+            "status": "passed",
+            "GPA": 3.71
+        },
+        "institute_code": "50088",
+        "institute_name": "Mohila Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "452795",
+        "result": {
+            "status": "passed",
+            "GPA": 3.8
+        },
+        "institute_code": "50088",
+        "institute_name": "Mohila Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "452797",
+        "result": {
+            "status": "passed",
+            "GPA": 3.72
+        },
+        "institute_code": "50088",
+        "institute_name": "Mohila Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "452798",
+        "result": {
+            "status": "passed",
+            "GPA": 3.82
+        },
+        "institute_code": "50088",
+        "institute_name": "Mohila Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "452799",
+        "result": {
+            "status": "passed",
+            "GPA": 3.73
+        },
+        "institute_code": "50088",
+        "institute_name": "Mohila Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "452800",
+        "result": {
+            "status": "passed",
+            "GPA": 3.74
+        },
+        "institute_code": "50088",
+        "institute_name": "Mohila Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "460295",
+        "result": {
+            "status": "passed",
+            "GPA": 3.66
+        },
+        "institute_code": "50238",
+        "institute_name": "Daffodil Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "460300",
+        "result": {
+            "status": "passed",
+            "GPA": 3.77
+        },
+        "institute_code": "50238",
+        "institute_name": "Daffodil Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "460301",
+        "result": {
+            "status": "passed",
+            "GPA": 3.71
+        },
+        "institute_code": "50238",
+        "institute_name": "Daffodil Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "460302",
+        "result": {
+            "status": "passed",
+            "GPA": 3.6
+        },
+        "institute_code": "50238",
+        "institute_name": "Daffodil Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "460305",
+        "result": {
+            "status": "passed",
+            "GPA": 3.49
+        },
+        "institute_code": "50238",
+        "institute_name": "Daffodil Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "460308",
+        "result": {
+            "status": "passed",
+            "GPA": 3.75
+        },
+        "institute_code": "50238",
+        "institute_name": "Daffodil Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "460312",
+        "result": {
+            "status": "passed",
+            "GPA": 3.6
+        },
+        "institute_code": "50238",
+        "institute_name": "Daffodil Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "460315",
+        "result": {
+            "status": "passed",
+            "GPA": 3.58
+        },
+        "institute_code": "50238",
+        "institute_name": "Daffodil Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "460316",
+        "result": {
+            "status": "passed",
+            "GPA": 3.74
+        },
+        "institute_code": "50238",
+        "institute_name": "Daffodil Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "493039",
+        "result": {
+            "status": "passed",
+            "GPA": 3.79
+        },
+        "institute_code": "50238",
+        "institute_name": "Daffodil Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "493040",
+        "result": {
+            "status": "passed",
+            "GPA": 3.4
+        },
+        "institute_code": "50238",
+        "institute_name": "Daffodil Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "493041",
+        "result": {
+            "status": "passed",
+            "GPA": 3.65
+        },
+        "institute_code": "50238",
+        "institute_name": "Daffodil Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "460309",
+        "result": {
+            "status": "failed",
+            "failed_subjects": [
+                {
+                    "subject_code": "69981",
+                    "status": "P"
+                }
+            ]
+        },
+        "institute_code": "50238",
+        "institute_name": "Daffodil Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "175974",
+        "result": {
+            "status": "passed",
+            "GPA": 3.2
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "175976",
+        "result": {
+            "status": "passed",
+            "GPA": 3.43
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "175984",
+        "result": {
+            "status": "passed",
+            "GPA": 3.43
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "176010",
+        "result": {
+            "status": "passed",
+            "GPA": 3.34
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "176015",
+        "result": {
+            "status": "passed",
+            "GPA": 3.23
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "388124",
+        "result": {
+            "status": "passed",
+            "GPA": 3.15
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "476606",
+        "result": {
+            "status": "passed",
+            "GPA": 3.72
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "476607",
+        "result": {
+            "status": "passed",
+            "GPA": 3.57
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490412",
+        "result": {
+            "status": "passed",
+            "GPA": 3.51
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490414",
+        "result": {
+            "status": "passed",
+            "GPA": 3.67
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490415",
+        "result": {
+            "status": "passed",
+            "GPA": 3.7
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490417",
+        "result": {
+            "status": "passed",
+            "GPA": 3.46
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490418",
+        "result": {
+            "status": "passed",
+            "GPA": 3.72
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490419",
+        "result": {
+            "status": "passed",
+            "GPA": 3.31
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490421",
+        "result": {
+            "status": "passed",
+            "GPA": 3.42
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490423",
+        "result": {
+            "status": "passed",
+            "GPA": 3.57
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490424",
+        "result": {
+            "status": "passed",
+            "GPA": 3.64
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490428",
+        "result": {
+            "status": "passed",
+            "GPA": 3.53
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490429",
+        "result": {
+            "status": "passed",
+            "GPA": 3.16
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490434",
+        "result": {
+            "status": "passed",
+            "GPA": 3.67
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490435",
+        "result": {
+            "status": "passed",
+            "GPA": 3.42
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490443",
+        "result": {
+            "status": "passed",
+            "GPA": 3.14
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490444",
+        "result": {
+            "status": "passed",
+            "GPA": 3.45
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490445",
+        "result": {
+            "status": "passed",
+            "GPA": 3.57
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490446",
+        "result": {
+            "status": "passed",
+            "GPA": 3.6
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490448",
+        "result": {
+            "status": "passed",
+            "GPA": 3.23
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490452",
+        "result": {
+            "status": "passed",
+            "GPA": 3.5
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490453",
+        "result": {
+            "status": "passed",
+            "GPA": 3.74
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490454",
+        "result": {
+            "status": "passed",
+            "GPA": 3.42
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490455",
+        "result": {
+            "status": "passed",
+            "GPA": 3.45
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490456",
+        "result": {
+            "status": "passed",
+            "GPA": 3.73
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490459",
+        "result": {
+            "status": "passed",
+            "GPA": 3.24
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490462",
+        "result": {
+            "status": "passed",
+            "GPA": 3.36
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490463",
+        "result": {
+            "status": "passed",
+            "GPA": 3.32
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490466",
+        "result": {
+            "status": "passed",
+            "GPA": 3.43
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490468",
+        "result": {
+            "status": "passed",
+            "GPA": 3.51
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490469",
+        "result": {
+            "status": "passed",
+            "GPA": 3.6
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490470",
+        "result": {
+            "status": "passed",
+            "GPA": 3.53
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490471",
+        "result": {
+            "status": "passed",
+            "GPA": 3.66
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490472",
+        "result": {
+            "status": "passed",
+            "GPA": 3.4
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490473",
+        "result": {
+            "status": "passed",
+            "GPA": 3.39
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490474",
+        "result": {
+            "status": "passed",
+            "GPA": 3.44
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490476",
+        "result": {
+            "status": "passed",
+            "GPA": 3.52
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490479",
+        "result": {
+            "status": "passed",
+            "GPA": 3.25
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490481",
+        "result": {
+            "status": "passed",
+            "GPA": 3.36
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "490483",
+        "result": {
+            "status": "passed",
+            "GPA": 3.41
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "494051",
+        "result": {
+            "status": "passed",
+            "GPA": 3.58
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "494052",
+        "result": {
+            "status": "passed",
+            "GPA": 3.48
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "494053",
+        "result": {
+            "status": "passed",
+            "GPA": 3.45
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "494054",
+        "result": {
+            "status": "passed",
+            "GPA": 3.18
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "494055",
+        "result": {
+            "status": "passed",
+            "GPA": 3.67
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "494057",
+        "result": {
+            "status": "passed",
+            "GPA": 3.38
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    }
+]

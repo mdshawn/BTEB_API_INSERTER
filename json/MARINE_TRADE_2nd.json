@@ -1,0 +1,797 @@
+[
+    {
+        "roll_number": "232678",
+        "result": {
+            "status": "passed",
+            "GPA": 3.34
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232730",
+        "result": {
+            "status": "passed",
+            "GPA": 3.39
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232732",
+        "result": {
+            "status": "passed",
+            "GPA": 3.19
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232741",
+        "result": {
+            "status": "passed",
+            "GPA": 2.99
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232749",
+        "result": {
+            "status": "passed",
+            "GPA": 2.91
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232761",
+        "result": {
+            "status": "passed",
+            "GPA": 3.37
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232762",
+        "result": {
+            "status": "passed",
+            "GPA": 2.85
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232768",
+        "result": {
+            "status": "passed",
+            "GPA": 3.07
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232769",
+        "result": {
+            "status": "passed",
+            "GPA": 3.02
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232779",
+        "result": {
+            "status": "passed",
+            "GPA": 3.1
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232781",
+        "result": {
+            "status": "passed",
+            "GPA": 2.59
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232783",
+        "result": {
+            "status": "passed",
+            "GPA": 3.31
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232789",
+        "result": {
+            "status": "passed",
+            "GPA": 2.91
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232811",
+        "result": {
+            "status": "passed",
+            "GPA": 3.15
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232814",
+        "result": {
+            "status": "passed",
+            "GPA": 3.4
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232815",
+        "result": {
+            "status": "passed",
+            "GPA": 3.08
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232820",
+        "result": {
+            "status": "passed",
+            "GPA": 3.05
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232824",
+        "result": {
+            "status": "passed",
+            "GPA": 3.3
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232729",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232738",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232739",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232744",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232746",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232751",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232755",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232756",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232757",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232764",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232765",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232767",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232773",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232778",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232782",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232791",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232793",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232796",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232802",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232805",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232807",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232809",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232810",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232816",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232818",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232822",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232823",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232825",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232828",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232835",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232840",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232750",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232766",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232806",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    },
+    {
+        "roll_number": "232808",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "",
+        "institute_name": "",
+        "district": "",
+        "result_date": "03-03-2024",
+        "result_semester": "2nd",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "Dec, 2023"
+    }
+]

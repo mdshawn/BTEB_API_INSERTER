@@ -1,0 +1,557 @@
+[
+    {
+        "roll_number": "800960",
+        "result": {
+            "status": "passed",
+            "GPA": 3.28
+        },
+        "institute_code": "13085",
+        "institute_name": "Dinajpur Polytechnic Institute",
+        "district": "Dinajpur",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "202608",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "15076",
+        "institute_name": "Halima Polytechnic Institute",
+        "district": "Lalmanirhat",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "205686",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "16058",
+        "institute_name": "Rangpur Polytechnic Institute",
+        "district": "Rangpur",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "205992",
+        "result": {
+            "status": "passed",
+            "GPA": 2.63
+        },
+        "institute_code": "17057",
+        "institute_name": "Kurigram Polytechnic Institute",
+        "district": "Kurigram",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "218258",
+        "result": {
+            "status": "passed",
+            "GPA": 2.98
+        },
+        "institute_code": "23071",
+        "institute_name": "National Science Research And Technology College",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "216780",
+        "result": {
+            "status": "passed",
+            "GPA": 3.0
+        },
+        "institute_code": "23105",
+        "institute_name": "Rajshahi Polytechnic Institute",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "815009",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "23105",
+        "institute_name": "Rajshahi Polytechnic Institute",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "217982",
+        "result": {
+            "status": "passed",
+            "GPA": 3.02
+        },
+        "institute_code": "23119",
+        "institute_name": "Puthia Polytechnic Institute",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "218567",
+        "result": {
+            "status": "passed",
+            "GPA": 2.7
+        },
+        "institute_code": "23281",
+        "institute_name": "Xylia Institute of Engineering Science and Technology",
+        "district": "Rajshahi",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "820078",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "27089",
+        "institute_name": "Ideal Polytechnic Institute",
+        "district": "Kushtia",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "236869",
+        "result": {
+            "status": "passed",
+            "GPA": 2.95
+        },
+        "institute_code": "39119",
+        "institute_name": "Patuakhali Institute of Science and Technology (PIST)",
+        "district": "Patuakhali",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "735309",
+        "result": {
+            "status": "passed",
+            "GPA": 2.77
+        },
+        "institute_code": "42044",
+        "institute_name": "Infra Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "611083",
+        "result": {
+            "status": "passed",
+            "GPA": 3.06
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "836292",
+        "result": {
+            "status": "passed",
+            "GPA": 3.0
+        },
+        "institute_code": "45045",
+        "institute_name": "Adorsho Polytechnic Institute",
+        "district": "Gopalganj",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "838472",
+        "result": {
+            "status": "passed",
+            "GPA": 3.02
+        },
+        "institute_code": "50045",
+        "institute_name": "Institute Of Communication Technology",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "875969",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50051",
+        "institute_name": "Institute of Science",
+        "district": "Trade and Technology, Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "248067",
+        "result": {
+            "status": "passed",
+            "GPA": 2.64
+        },
+        "institute_code": "50087",
+        "institute_name": "Graphic Arts Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "248960",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50094",
+        "institute_name": "Rajdhani Polytechnic And Textile College",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "249647",
+        "result": {
+            "status": "passed",
+            "GPA": 2.53
+        },
+        "institute_code": "50099",
+        "institute_name": "Shyamoli Ideal Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "253166",
+        "result": {
+            "status": "passed",
+            "GPA": 2.7
+        },
+        "institute_code": "50110",
+        "institute_name": "Islami Bank Institute Of Technology",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "775222",
+        "result": {
+            "status": "passed",
+            "GPA": 2.61
+        },
+        "institute_code": "50110",
+        "institute_name": "Islami Bank Institute Of Technology",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "846506",
+        "result": {
+            "status": "passed",
+            "GPA": 2.75
+        },
+        "institute_code": "50114",
+        "institute_name": "National Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "256876",
+        "result": {
+            "status": "passed",
+            "GPA": 2.82
+        },
+        "institute_code": "50159",
+        "institute_name": "Desh Polytechnic College",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "849270",
+        "result": {
+            "status": "passed",
+            "GPA": 2.83
+        },
+        "institute_code": "50202",
+        "institute_name": "Muslim Aid Institute Of Technology (MAIT)",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "257909",
+        "result": {
+            "status": "passed",
+            "GPA": 2.92
+        },
+        "institute_code": "50402",
+        "institute_name": "National Institute Of Engineering And Technology(NIET)",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "649424",
+        "result": {
+            "status": "passed",
+            "GPA": 3.12
+        },
+        "institute_code": "50474",
+        "institute_name": "Khawja Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "292327",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50511",
+        "institute_name": "Savar Digital Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "264829",
+        "result": {
+            "status": "passed",
+            "GPA": 2.68
+        },
+        "institute_code": "50528",
+        "institute_name": "Ahsanullah Institute of Technical and Vocational Education and Training",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "265740",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "51046",
+        "institute_name": "National Institute of Engineering and Technology(NIET)",
+        "district": "Narayanganj",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "268267",
+        "result": {
+            "status": "passed",
+            "GPA": 3.29
+        },
+        "institute_code": "52041",
+        "institute_name": "Narsingdi Polytechnic Institute",
+        "district": "Narsingdi",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "269807",
+        "result": {
+            "status": "passed",
+            "GPA": 2.76
+        },
+        "institute_code": "53050",
+        "institute_name": "British American Technology And Management Institute",
+        "district": "Gazipur",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "275628",
+        "result": {
+            "status": "passed",
+            "GPA": 2.59
+        },
+        "institute_code": "57091",
+        "institute_name": "Rumdo Institute Of Modern Technology",
+        "district": "Mymensingh",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "281159",
+        "result": {
+            "status": "passed",
+            "GPA": 2.7
+        },
+        "institute_code": "65054",
+        "institute_name": "Comilla Polytechnic Institute",
+        "district": "Comilla",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "871742",
+        "result": {
+            "status": "passed",
+            "GPA": 2.93
+        },
+        "institute_code": "70045",
+        "institute_name": "Islami Bank Institute Of Technology",
+        "district": "Chittagong",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "777565",
+        "result": {
+            "status": "passed",
+            "GPA": 2.74
+        },
+        "institute_code": "70062",
+        "institute_name": "Chittagong Technical College",
+        "district": "Chittagong",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "288552",
+        "result": {
+            "status": "passed",
+            "GPA": 2.45
+        },
+        "institute_code": "70095",
+        "institute_name": "Daffodil Institute of IT-Chittagong",
+        "district": "Chittagong",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "288764",
+        "result": {
+            "status": "passed",
+            "GPA": 2.34
+        },
+        "institute_code": "70096",
+        "institute_name": "Shyamoli Ideal Polytechnic Institute",
+        "district": "Chittagong",
+        "result_date": "03-03-2024",
+        "result_semester": null,
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    }
+]

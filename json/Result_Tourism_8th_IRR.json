@@ -1,0 +1,17 @@
+[
+    {
+        "roll_number": "179075",
+        "result": {
+            "status": "passed",
+            "GPA": 3.51
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "8th",
+        "regulation": "2016",
+        "trade": "DIPLOMA IN  TOURISM AND HOSPITALITY",
+        "examination_held": "December, 2023"
+    }
+]

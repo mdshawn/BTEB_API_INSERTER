@@ -1,0 +1,107 @@
+[
+    {
+        "roll_number": "548580",
+        "result": {
+            "status": "passed",
+            "GPA": 3.75
+        },
+        "institute_code": "42045",
+        "institute_name": "Barisal Polytechnic Institute",
+        "district": "Barisal",
+        "result_date": "03-03-2024",
+        "result_semester": "4th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "556715",
+        "result": {
+            "status": "passed",
+            "GPA": 4.0
+        },
+        "institute_code": "50088",
+        "institute_name": "Mohila Polytechnic Institute",
+        "district": "Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "4th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "494056",
+        "result": {
+            "status": "passed",
+            "GPA": 3.0
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "4th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "593718",
+        "result": {
+            "status": "passed",
+            "GPA": 3.75
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "4th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "593759",
+        "result": {
+            "status": "passed",
+            "GPA": 4.0
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "4th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "593762",
+        "result": {
+            "status": "passed",
+            "GPA": 3.75
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "4th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "593794",
+        "result": {
+            "status": "passed",
+            "GPA": 4.0
+        },
+        "institute_code": "74009",
+        "institute_name": "Cox's Bazar Polytechnic Institute",
+        "district": "Cox's Bazar",
+        "result_date": "03-03-2024",
+        "result_semester": "4th",
+        "regulation": null,
+        "trade": null,
+        "examination_held": "December, 2023"
+    }
+]

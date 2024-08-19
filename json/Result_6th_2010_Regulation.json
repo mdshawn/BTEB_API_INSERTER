@@ -1,0 +1,47 @@
+[
+    {
+        "roll_number": "235321",
+        "result": {
+            "status": "passed",
+            "GPA": 3.03
+        },
+        "institute_code": "36108",
+        "institute_name": "Institute of Marine Technology",
+        "district": "Bagerhat, Bagerhat",
+        "result_date": "03-03-2024",
+        "result_semester": "6th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN  ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "247454",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "50051",
+        "institute_name": "Institute of Science",
+        "district": "Trade and Technology, Dhaka",
+        "result_date": "03-03-2024",
+        "result_semester": "6th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN  ENGINEERING",
+        "examination_held": "December, 2023"
+    },
+    {
+        "roll_number": "272801",
+        "result": {
+            "status": "failed",
+            "failed_subjects": []
+        },
+        "institute_code": "55101",
+        "institute_name": "Jashimuddin Polytechnic Institute",
+        "district": "Jamalpur",
+        "result_date": "03-03-2024",
+        "result_semester": "6th",
+        "regulation": "2010",
+        "trade": "DIPLOMA IN  ENGINEERING",
+        "examination_held": "December, 2023"
+    }
+]
